@@ -3,17 +3,33 @@
 # Keep every command non-interactive (no prompts) and idempotent.
 
 setup_commands:
+  ## tested with python 3.11.6, pip 23.3.1
   - "pip install -r requirements.txt"
   # - add every other setup step here, in order (env vars, downloads, etc.)
 
 run_commands:
-  - "python src/main.py --help"
+
+  ## train.py
+  python src/scripts/train.py --train_data_path data/video_query_granularity_600.csv --checkpoint_dir checkpoints/exp1
+
+  ## by default it runs for 10 epochs, you can change it with --epochs
+
+  ##evaluate.py single query example
+  python src/scripts/evaluate.py --query "What color shirt is the kid wearing?"
+  
+  ## evaluate.py multiple queries example using a test csv file
+  python src/scripts/evaluate.py --test_csv data/video_query_granularity_test.csv
+
+  ## by default it runs on the checkpoint checkpoints/exp1/epoch_10.pt, you can change it with --model_path
+
   # - the real command(s) that actually run your solution
 
 test_commands: []
   # optional -- commands that run your own tests/checks, if you have any
 
 notes: ""
+  "train.py if ran on cpu will take some time to finish 10 epochs, 5-10 minutes on a intel ultra 5."
+
   # anything we should know before running this (e.g. "needs a GPU",
   # "takes about 10 minutes", "expects a sample dataset already present
   # under data/, see docs/ for where to get it")
