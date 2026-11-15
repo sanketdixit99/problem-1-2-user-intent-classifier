@@ -16,14 +16,8 @@ DEFAULT_ENCODER = "distilbert-base-uncased"
 
 def resolve_model_path(model_path: str) -> Path:
 	model_path = Path(model_path)
-	if model_path.is_dir():
-		for filename in ("intent_classifier.pth", "intent_classifier.pt"):
-			candidate = model_path / filename
-			if candidate.is_file():
-				return candidate
-		raise FileNotFoundError(f"No intent classifier checkpoint found in {model_path}")
-	if not model_path.is_file():
-		raise FileNotFoundError(f"Model checkpoint does not exist: {model_path}")
+	if model_path.suffix.lower() != ".pt" or not model_path.is_file():
+		raise FileNotFoundError(f"PyTorch checkpoint (.pt) not found: {model_path}")
 	return model_path
 
 
@@ -63,7 +57,7 @@ def predict_label(query: str, model_path: str = DEFAULT_MODEL_PATH) -> str:
 def main() -> None:
 	parser = argparse.ArgumentParser(description="Predict a video-query intent label.")
 	parser.add_argument("--query", type=str, required=True, help="User query text")
-	parser.add_argument("--model_path", type=str, default=DEFAULT_MODEL_PATH, help="Checkpoint file or its containing directory")
+	parser.add_argument("--model_path", type=str, default=DEFAULT_MODEL_PATH, help="Path to an existing .pt checkpoint file")
 	args = parser.parse_args()
 	print(predict_label(args.query, args.model_path))
 
