@@ -1,0 +1,601 @@
+query,label
+What is the video primarily about?,VIDEO
+What does the man do before sitting at the desk?,CLIP
+What color is the ball?,FRAME
+Describe the whole video at a high level.,VIDEO
+What happens in the part where the device is configured?,SEGMENT
+What happens during the part showing the troubleshooting process?,SEGMENT
+What is the video generally about?,VIDEO
+What is on the desk?,FRAME
+What are the key moments across the video?,VIDEO
+What happens after the person finishes writing?,CLIP
+What does the recording show overall?,VIDEO
+Describe the video as a whole.,VIDEO
+Describe the full progression of the recording.,VIDEO
+What color is the vehicle in the frame?,FRAME
+How does the man react when the box opens?,CLIP
+What occurs during the segment showing the manufacturing process?,SEGMENT
+What activities take place across the video?,VIDEO
+Summarize the portion showing the training activity.,SEGMENT
+Describe the segment where the speaker answers questions.,SEGMENT
+Describe everything that happens at a high level.,VIDEO
+What are the main events in this video?,VIDEO
+What object is in front of the laptop?,FRAME
+What color is the hat?,FRAME
+What object is closest to the laptop?,FRAME
+What does the driver do after stopping the vehicle?,CLIP
+What is written on the label?,FRAME
+Give me the big picture of this video.,VIDEO
+What does the recording show overall from start to finish?,VIDEO
+Is there a dog in the frame?,FRAME
+What happens just before the person opens the window?,CLIP
+Is the door behind the person open?,FRAME
+What is shown during the driving portion?,SEGMENT
+What does the video contain overall?,VIDEO
+Summarize the part where the person explains the procedure.,SEGMENT
+Summarize the part where the speaker explains the procedure.,SEGMENT
+What object is on the table?,FRAME
+What is the overall purpose and content of the video?,VIDEO
+What color is the door?,FRAME
+What does the speaker do immediately after showing the slide?,CLIP
+Describe the portion where the speaker answers questions.,SEGMENT
+What happens just before the dog jumps?,CLIP
+What does the person do throughout the video?,VIDEO
+What color is the table?,FRAME
+Is the window closed?,FRAME
+Describe everything important in this video.,VIDEO
+Summarize the section involving the customer demonstration.,SEGMENT
+Is there a bicycle visible?,FRAME
+Give me the overall picture.,VIDEO
+What are the important events throughout?,VIDEO
+Is there a backpack in the scene?,FRAME
+Summarize the segment about the experiment procedure.,SEGMENT
+What happens during the segment showing the testing workflow?,SEGMENT
+What is the broad context of this video?,VIDEO
+What color is the floor?,FRAME
+Is a window visible behind the person?,FRAME
+What does the player do immediately after scoring?,CLIP
+Describe the part where the team reviews the results.,SEGMENT
+What happens during the presentation segment?,SEGMENT
+What is the broad storyline of this recording?,VIDEO
+What happens during the portion focused on testing?,SEGMENT
+Summarize the complete set of actions.,VIDEO
+What does the person do during the cleaning portion?,SEGMENT
+What does the person do after looking at the screen?,CLIP
+Is the bag open?,FRAME
+How many chairs are in the room?,FRAME
+What is the overall context and storyline?,VIDEO
+Is the light switched on?,FRAME
+How many objects are on the desk?,FRAME
+What happens throughout the recording?,VIDEO
+What happens after the ball is thrown?,CLIP
+What happens immediately after the car stops?,CLIP
+What are the key activities shown in the video?,VIDEO
+How does the child react after seeing the toy?,CLIP
+What does the player do before kicking the ball?,CLIP
+How does the woman react when the lights go out?,CLIP
+What object is on the chair?,FRAME
+How does the cat react to the person?,CLIP
+Describe the segment focused on evaluation.,SEGMENT
+What object is near the television?,FRAME
+How does the person react after the computer crashes?,CLIP
+What is shown during the segment about performance analysis?,SEGMENT
+How does the dog move toward the bowl?,CLIP
+Is there a bottle on the table?,FRAME
+What happens when the lights come on?,CLIP
+What are the major activities in chronological order?,VIDEO
+What is happening across the whole video?,VIDEO
+What happens during the demonstration?,SEGMENT
+Describe the section involving the experiment results.,SEGMENT
+What happens when the person drops the phone?,CLIP
+What happens during the section about debugging?,SEGMENT
+What is explained during the tutorial portion?,SEGMENT
+Is the door open?,FRAME
+Give me an end-to-end summary.,VIDEO
+What happens when the man opens the door?,CLIP
+Describe the portion showing the experiment.,SEGMENT
+What happens during the segment about deployment testing?,SEGMENT
+Describe the portion involving the data analysis.,SEGMENT
+Give me a summary of everything that happens.,VIDEO
+What happens after the car turns?,CLIP
+Give me an end-to-end description.,VIDEO
+What is the complete overview of this recording?,VIDEO
+What is shown in the segment where the person performs the task?,SEGMENT
+How many screens are visible?,FRAME
+What does the woman do after standing up?,CLIP
+What is the overall flow of events?,VIDEO
+What happens after the person walks into the room?,CLIP
+How does the situation develop over the course of the video?,VIDEO
+Summarize the portion focused on configuring the system.,SEGMENT
+What happens during the part where the team discusses the findings?,SEGMENT
+How does the woman move after picking up the bag?,CLIP
+Describe the portion involving the field visit.,SEGMENT
+How many cars are visible?,FRAME
+What is displayed on the screen?,FRAME
+How many people are visible in the background?,FRAME
+What does the woman do before leaving the store?,CLIP
+How does the person move from the table to the door?,CLIP
+What happens after the speaker points at the screen?,CLIP
+What are the main events and activities in the full video?,VIDEO
+What color is the person's jacket?,FRAME
+How does the person respond after the alarm goes off?,CLIP
+What are the most important moments across the entire video?,VIDEO
+What topics are covered in the video?,VIDEO
+How does the dog react when the person calls it?,CLIP
+How many lamps are visible?,FRAME
+What happens during the section showing the experiment?,SEGMENT
+Describe the entire sequence of events.,VIDEO
+What object is on the floor near the chair?,FRAME
+What happens during the section where the speaker explains the next steps?,SEGMENT
+Is there a microphone in the frame?,FRAME
+What happens when the man notices the object?,CLIP
+What are the major events from start to finish?,VIDEO
+What color is the person's backpack?,FRAME
+Summarize the segment showing the installation process.,SEGMENT
+What is discussed in the middle portion of the video?,SEGMENT
+What is the person wearing?,FRAME
+What does the team do during the project discussion?,SEGMENT
+What is the overall subject of the video?,VIDEO
+Describe the overall progression.,VIDEO
+What happens during the segment showing the experiment results?,SEGMENT
+What is the video trying to communicate?,VIDEO
+What is the main theme of the video?,VIDEO
+Describe the part focused on the product demonstration.,SEGMENT
+What happens during the outdoor portion?,SEGMENT
+Summarize the video without focusing on one moment.,VIDEO
+How many dogs are visible?,FRAME
+What is happening overall in this recording?,VIDEO
+What happens before the machine stops?,CLIP
+How does the person react when the object breaks?,CLIP
+What happens across the entire recording?,VIDEO
+What is this video about?,VIDEO
+How many people can be seen in this frame?,FRAME
+Is there a keyboard on the desk?,FRAME
+What does the woman do after receiving the object?,CLIP
+What does the player do before taking the shot?,CLIP
+What is the person holding near their face?,FRAME
+What happens during the portion where the presenter explains the configuration?,SEGMENT
+What is the video trying to show?,VIDEO
+What happens between the car stopping and the driver leaving?,CLIP
+Summarize the entire sequence.,VIDEO
+What are the major changes throughout the video?,VIDEO
+What does the child do after entering the room?,CLIP
+What does the presenter explain in the implementation segment?,SEGMENT
+Describe the overall activity in the video.,VIDEO
+What does the player do after the referee blows the whistle?,CLIP
+What does the child do after picking up the toy?,CLIP
+What is the overall sequence of actions in the recording?,VIDEO
+Summarize the part showing the testing procedure.,SEGMENT
+What occurs during the segment showing the cooking activity?,SEGMENT
+Is there a bicycle in the background?,FRAME
+How does the woman move toward the counter?,CLIP
+What occurs during the section involving the product walkthrough?,SEGMENT
+Describe the portion where the participants work together.,SEGMENT
+How many phones are visible?,FRAME
+What happens after the machine finishes?,CLIP
+Summarize the part focused on the new product.,SEGMENT
+What is the video about from a high level?,VIDEO
+How many tables are visible?,FRAME
+Give me a concise summary of the whole video.,VIDEO
+What is the story across the whole video?,VIDEO
+What happens during the segment focused on optimization?,SEGMENT
+What are the major activities shown?,VIDEO
+What happens during the section involving the presentation?,SEGMENT
+What is written on the document?,FRAME
+What type of animal is shown?,FRAME
+How does the woman react when she sees the dog?,CLIP
+What does the speaker do after pointing to the chart?,CLIP
+What does the person do after turning off the light?,CLIP
+Is the door open or closed?,FRAME
+What happens before the player takes the shot?,CLIP
+Summarize the portion showing the training activity.,SEGMENT
+What color is the chair?,FRAME
+What object is beside the chair?,FRAME
+Describe the complete set of events.,VIDEO
+Summarize the part where the person demonstrates the feature.,SEGMENT
+What happens immediately before the person leaves?,CLIP
+What is shown during the part involving the experiment setup?,SEGMENT
+What object is the person holding?,FRAME
+What does the man do before leaving the room?,CLIP
+What object is on the floor?,FRAME
+Give me a complete overview without focusing on a particular moment.,VIDEO
+Summarize the major events in the video.,VIDEO
+What does the man do after picking up the phone?,CLIP
+What object is next to the cup?,FRAME
+What happens during the section showing the workflow?,SEGMENT
+What happens during the segment where the speaker explains the solution?,SEGMENT
+Describe the portion about the product demonstration.,SEGMENT
+Describe the section focused on the project discussion.,SEGMENT
+What occurs during the segment where the person prepares the materials?,SEGMENT
+Summarize the portion where the speaker discusses performance.,SEGMENT
+What happens after the woman receives the package?,CLIP
+Is the person wearing glasses?,FRAME
+What object is the child holding?,FRAME
+What color are the curtains?,FRAME
+What does the video demonstrate from start to finish?,VIDEO
+What happens during the segment where the participants collaborate?,SEGMENT
+What are the significant events in the complete recording?,VIDEO
+What does the dog do before lying down?,CLIP
+Describe the video from beginning to end.,VIDEO
+Is there a cat visible?,FRAME
+What is the complete storyline?,VIDEO
+Summarize the segment about troubleshooting.,SEGMENT
+How many people are visible?,FRAME
+Describe the overall progression of the video.,VIDEO
+When does the person start running?,CLIP
+How does the child reach the toy?,CLIP
+What color is the car?,FRAME
+What happens immediately before the person sits down?,CLIP
+What happens just before the lights turn off?,CLIP
+What is the complete story shown here?,VIDEO
+What does the woman do before opening the bag?,CLIP
+What is the context of the entire video?,VIDEO
+How does the dog react after the person throws the ball?,CLIP
+What does the team do during the planning segment?,SEGMENT
+What is next to the computer?,FRAME
+What color is the car?,FRAME
+What does the video cover?,VIDEO
+What does the dog do after hearing the sound?,CLIP
+Summarize the segment involving the workflow.,SEGMENT
+How does the man respond when someone calls him?,CLIP
+Summarize the segment showing the practical task.,SEGMENT
+What color is the wall behind the person?,FRAME
+How does the driver react to the pedestrian?,CLIP
+How does the cat react when the door opens?,CLIP
+Describe the segment where the person walks through the process.,SEGMENT
+Describe the overall content and progression.,VIDEO
+How does the person leave the building?,CLIP
+What is written on the screen?,FRAME
+How does the person move after getting out of the vehicle?,CLIP
+Describe the part where the presenter compares two approaches.,SEGMENT
+Summarize the sequence of activities.,VIDEO
+What is the overall narrative of the recording?,VIDEO
+What are the main points of the video?,VIDEO
+What is shown during the portion inside the laboratory?,SEGMENT
+What is the person looking at?,FRAME
+Summarize the entire recording for me.,VIDEO
+What are the major stages shown in this video?,VIDEO
+How does the person approach the table?,CLIP
+What happens in the portion about configuration?,SEGMENT
+What happens from the start to the end?,VIDEO
+Summarize the portion focused on the system demonstration.,SEGMENT
+Describe the segment where the presenter explains the results.,SEGMENT
+What does the woman do before sitting down?,CLIP
+What color are the shoes?,FRAME
+What occurs during the portion showing the repair?,SEGMENT
+How does the person respond when the phone rings?,CLIP
+What object is next to the person?,FRAME
+Describe the segment where the device is tested.,SEGMENT
+What are the important events across the recording?,VIDEO
+What is shown during the segment about cooking?,SEGMENT
+What happens just after the alarm rings?,CLIP
+What happens when the person enters the room?,CLIP
+What does the player do after scoring?,CLIP
+What is the overall story of this video?,VIDEO
+What is the video mainly showing?,VIDEO
+What does the child do after the lights turn on?,CLIP
+Is there a backpack visible?,FRAME
+Is anyone wearing a hat?,FRAME
+Summarize the content of this video.,VIDEO
+What happens over the course of the video?,VIDEO
+How many cars are in the frame?,FRAME
+How many people are standing?,FRAME
+What happens throughout the video?,VIDEO
+What is the person carrying?,FRAME
+What does the child do after the ball reaches them?,CLIP
+What does the person do after the train arrives?,CLIP
+What happens when the player kicks the ball?,CLIP
+What does the dog do after it sees the ball?,CLIP
+What is discussed during the project update portion?,SEGMENT
+What happens in the video overall?,VIDEO
+What happens immediately after the person stands up?,CLIP
+Describe the section where the product is configured.,SEGMENT
+Explain the entire video in a few sentences.,VIDEO
+What occurs during the section showing the installation?,SEGMENT
+What is the main storyline from beginning to end?,VIDEO
+What does the speaker explain in the tutorial section?,SEGMENT
+What happens during the part showing the setup?,SEGMENT
+How many monitors are visible?,FRAME
+What happens during the section about the results?,SEGMENT
+What is shown on the monitor?,FRAME
+How does the child react when the balloon pops?,CLIP
+Describe the section where the person demonstrates the tool.,SEGMENT
+How many monitors are visible?,FRAME
+What color is the desk?,FRAME
+Is there a car in the background?,FRAME
+What are the main things that happen?,VIDEO
+What happens when the machine starts?,CLIP
+What happens during the exercise section?,SEGMENT
+What happens after the speaker finishes talking?,CLIP
+What happens in the section after the introduction?,SEGMENT
+What is shown during the segment involving the presentation slides?,SEGMENT
+What happens during the meeting section?,SEGMENT
+What object is in front of the person?,FRAME
+What happens after the player misses the shot?,CLIP
+Is the light on?,FRAME
+How does the person react after receiving the message?,CLIP
+What are the main events across the recording?,VIDEO
+How does the person react when the computer starts?,CLIP
+What happens over the full duration?,VIDEO
+What does the woman do after closing the drawer?,CLIP
+What is the person holding in their left hand?,FRAME
+What are the key events in chronological order?,VIDEO
+How does the woman respond after reading the message?,CLIP
+What happens before the person starts walking?,CLIP
+Where is the phone?,FRAME
+Summarize the section about system configuration.,SEGMENT
+What happens when the car begins moving?,CLIP
+What happens when the person turns on the machine?,CLIP
+What does the man do when the music starts?,CLIP
+What does the speaker do after showing the diagram?,CLIP
+What is the main purpose of this video?,VIDEO
+What does the man do after putting down the bag?,CLIP
+What is the overall situation shown?,VIDEO
+What are the main activities performed by the people in this video?,VIDEO
+Summarize the section where the team reviews the implementation.,SEGMENT
+How does the person enter the room?,CLIP
+What is the person wearing on their head?,FRAME
+What happens in each major part of the video?,VIDEO
+What are the key events throughout the video?,VIDEO
+How does the cyclist react to the obstacle?,CLIP
+How does the person transition from walking to running?,CLIP
+What is shown during the part about project planning?,SEGMENT
+What is the person pointing at?,FRAME
+Summarize the portion involving the workflow demonstration.,SEGMENT
+What happens during the cooking portion of the video?,SEGMENT
+What occurs during the section where the presenter explains the architecture?,SEGMENT
+How many books are visible?,FRAME
+What is on the wall?,FRAME
+Explain what the entire video contains.,VIDEO
+What does the child do before going outside?,CLIP
+What happens as the person picks up the object?,CLIP
+What happens in the part where the presenter discusses limitations?,SEGMENT
+What happens after the door is opened?,CLIP
+What does the recording tell us overall?,VIDEO
+How many people are sitting?,FRAME
+What type of building is visible?,FRAME
+Describe the complete progression of what happens.,VIDEO
+How does the driver respond to the traffic signal?,CLIP
+How does the driver park the car?,CLIP
+What happens after the person drops the object?,CLIP
+How many people are in the room?,FRAME
+What is the main storyline?,VIDEO
+What color is the shirt?,FRAME
+What happens across all parts of the video?,VIDEO
+What changes take place throughout the video?,VIDEO
+What is shown during the portion about deployment?,SEGMENT
+What does the person do after opening the package?,CLIP
+What is the overall activity shown?,VIDEO
+How does the woman react when she sees the package?,CLIP
+Describe the section where the team discusses the solution.,SEGMENT
+Summarize the segment where the team evaluates the system.,SEGMENT
+What is written on the board?,FRAME
+What does the video show across its duration?,VIDEO
+What occurs during the portion about data collection?,SEGMENT
+Summarize the portion covering the experiment setup.,SEGMENT
+What does the dog do after jumping?,CLIP
+What is shown during the part where the person performs the installation?,SEGMENT
+What is the person holding?,FRAME
+What is the person holding?,FRAME
+Is the person wearing glasses?,FRAME
+What is written on the paper?,FRAME
+What color is the cup?,FRAME
+What happens just before the car accelerates?,CLIP
+What are the main activities from beginning to end?,VIDEO
+Is the person sitting?,FRAME
+Describe the segment where the presenter compares alternatives.,SEGMENT
+How does the person move toward the door?,CLIP
+Summarize all important events.,VIDEO
+What happens during the part showing the workflow?,SEGMENT
+Give me a complete summary of this video.,VIDEO
+How many people are visible in the image?,FRAME
+How does the cyclist avoid the obstacle?,CLIP
+What does the child do after entering the house?,CLIP
+What color is the jacket?,FRAME
+What does the person do after closing the laptop?,CLIP
+Is there a laptop visible?,FRAME
+How does the dog react to the food?,CLIP
+What does the woman do when the phone rings?,CLIP
+What is written on the paper?,FRAME
+What is shown during the part focused on installation?,SEGMENT
+Is there a microphone?,FRAME
+How many cups are on the table?,FRAME
+What happens just before the person enters the building?,CLIP
+Give me a complete high-level summary.,VIDEO
+Describe the portion where the team discusses the project.,SEGMENT
+What happens when the person walks toward the camera?,CLIP
+What color is the ball?,FRAME
+What happens immediately after the lights are switched on?,CLIP
+What happens after the cat knocks over the object?,CLIP
+What does the speaker do after finishing the explanation?,CLIP
+Summarize the part where the speaker explains the setup.,SEGMENT
+What object is next to the door?,FRAME
+Describe the portion where the participants discuss the results.,SEGMENT
+How does the child react when the dog approaches?,CLIP
+What is on the table next to the laptop?,FRAME
+Describe the portion where the person prepares the food.,SEGMENT
+What does the driver do before getting out of the car?,CLIP
+Summarize the video in one overview.,VIDEO
+What does the child do after opening the box?,CLIP
+Summarize the segment showing the cooking process.,SEGMENT
+How many cups are visible?,FRAME
+What occurs during the segment about system testing?,SEGMENT
+What happens during the section devoted to the experiment?,SEGMENT
+What are the main actions across the whole video?,VIDEO
+What is the complete context shown?,VIDEO
+What is visible on the television?,FRAME
+What happens immediately after the person sits?,CLIP
+How does the person pick up the fallen item?,CLIP
+What occurs during the section showing the procedure?,SEGMENT
+What is the person carrying?,FRAME
+What is written on the sign?,FRAME
+What does the child do when the toy starts moving?,CLIP
+What happens across the full recording?,VIDEO
+What is the person holding near the table?,FRAME
+Summarize the section where the speaker explains the design.,SEGMENT
+How many windows can be seen?,FRAME
+Describe the complete sequence.,VIDEO
+What happens during the entire video?,VIDEO
+What object is on the shelf?,FRAME
+What does the player do immediately before scoring?,CLIP
+What are the major events shown throughout?,VIDEO
+Is the window open?,FRAME
+What is the overall scenario?,VIDEO
+Describe the segment involving the interview.,SEGMENT
+What is the overall sequence shown?,VIDEO
+Describe the segment involving the project review.,SEGMENT
+What is the overall sequence of activities?,VIDEO
+Describe the segment where the team analyzes the outcome.,SEGMENT
+What is discussed in the portion about model training?,SEGMENT
+What does the man do between opening and closing the door?,CLIP
+Describe the section where the team is working together.,SEGMENT
+What are the major events in the video?,VIDEO
+What are all the major events?,VIDEO
+What is the overall narrative?,VIDEO
+What occurs in the portion where the machine is operated?,SEGMENT
+Can you explain the video from beginning to end?,VIDEO
+Summarize the section where the presenter discusses the design.,SEGMENT
+What color is the wall?,FRAME
+What is on the shelf?,FRAME
+Summarize the section where the product is demonstrated.,SEGMENT
+What object is beside the phone?,FRAME
+Give me a summary covering the entire video.,VIDEO
+What are the main activities across the recording?,VIDEO
+What happens in the section where the speaker walks through the algorithm?,SEGMENT
+What is next to the television?,FRAME
+How does the dog approach the person?,CLIP
+Is the person sitting or standing?,FRAME
+What happens in the section devoted to testing?,SEGMENT
+Where is the laptop?,FRAME
+Is the television turned on?,FRAME
+What are the major actions shown?,VIDEO
+What is written on the sign?,FRAME
+What is on the counter?,FRAME
+What happens during the portion showing the assembly?,SEGMENT
+What does the dog do when the person throws the toy?,CLIP
+What occurs during the section where the presenter demonstrates the tool?,SEGMENT
+What happens before the person picks up the phone?,CLIP
+What happens when the man enters the kitchen?,CLIP
+What is shown during the portion focused on troubleshooting?,SEGMENT
+What is shown during the portion where the speaker explains the concept?,SEGMENT
+Give me an overview of the video.,VIDEO
+What happens during the section involving the demonstration?,SEGMENT
+How many people are standing?,FRAME
+How many vehicles are visible?,FRAME
+What happens after the cyclist stops?,CLIP
+Describe the video in chronological order.,VIDEO
+Summarize the part focused on troubleshooting the device.,SEGMENT
+How does the cyclist react after encountering the obstacle?,CLIP
+What is displayed on the computer?,FRAME
+What is next to the keyboard?,FRAME
+Describe the segment where the person prepares the equipment.,SEGMENT
+What does the man do after sitting down?,CLIP
+What happens during the training section?,SEGMENT
+Explain the complete sequence of events.,VIDEO
+What happens during the section involving the interview discussion?,SEGMENT
+What happens in the section showing the test procedure?,SEGMENT
+What is the complete narrative of the recording?,VIDEO
+What happens after the woman sits down?,CLIP
+What are the key events from start to finish?,VIDEO
+What is the complete context of this video?,VIDEO
+How does the player react after losing the ball?,CLIP
+Describe the segment involving the field demonstration.,SEGMENT
+How does the cyclist turn at the intersection?,CLIP
+What occurs during the segment about deployment?,SEGMENT
+Explain the complete video at a high level.,VIDEO
+Give me a high-level summary.,VIDEO
+What color is the sofa?,FRAME
+Is the person wearing a hat?,FRAME
+What is shown in the segment about performance testing?,SEGMENT
+What color is the floor?,FRAME
+What happens during the section where the speaker compares the methods?,SEGMENT
+How does the woman respond to the question?,CLIP
+What happens during the section focused on the results?,SEGMENT
+What happens after the person finishes the task?,CLIP
+What happens after the woman opens the door?,CLIP
+What color is the bicycle?,FRAME
+What happens throughout the entire recording?,VIDEO
+What does the person do across the entire video?,VIDEO
+What color is the bag?,FRAME
+What is the video about overall?,VIDEO
+What color is the sofa?,FRAME
+What color is the backpack?,FRAME
+Explain the video as a whole.,VIDEO
+What does the video demonstrate overall?,VIDEO
+Summarize the section about installing the software.,SEGMENT
+Summarize the complete recording.,VIDEO
+What is the person holding in their hand?,FRAME
+What happens when the child reaches the door?,CLIP
+Summarize the part where the presenter explains the architecture.,SEGMENT
+Summarize the segment focused on the interview discussion.,SEGMENT
+What is the overall content?,VIDEO
+What happens between the two people shaking hands and leaving?,CLIP
+Describe the section where the presenter explains the method.,SEGMENT
+Describe the segment about preparing the equipment.,SEGMENT
+What type of vehicle is shown?,FRAME
+Is there a dog in the image?,FRAME
+What color is the person's trousers?,FRAME
+Summarize the section showing the assembly process.,SEGMENT
+What is shown in the section where the person explains the design?,SEGMENT
+Summarize the part involving the experiment.,SEGMENT
+What does the driver do after parking?,CLIP
+How many windows are visible?,FRAME
+What is the full story shown in the video?,VIDEO
+What does the child do after dropping the ball?,CLIP
+Summarize the entire video.,VIDEO
+How many bags are visible?,FRAME
+Explain the main story of the recording.,VIDEO
+What does the speaker explain during the evaluation section?,SEGMENT
+Describe the video comprehensively.,VIDEO
+How many bottles are visible?,FRAME
+What happens before the speaker leaves the stage?,CLIP
+What color is the man's shirt?,FRAME
+How does the person respond when the doorbell rings?,CLIP
+What does the video show as a whole?,VIDEO
+How does the person pick up the box?,CLIP
+How does the person react to the sudden noise?,CLIP
+Summarize the part involving the practical demonstration.,SEGMENT
+Explain the overall sequence of events.,VIDEO
+How does the person move from the chair to the table?,CLIP
+How does the man leave the chair?,CLIP
+Summarize the part focused on explaining the workflow.,SEGMENT
+What does the speaker discuss in the section about performance?,SEGMENT
+What is displayed on the monitor?,FRAME
+What color is the car's body?,FRAME
+What is shown on the phone screen?,FRAME
+What is displayed on the phone?,FRAME
+What occurs during the section showing the repair process?,SEGMENT
+What is shown on the board?,FRAME
+Describe the segment where the person assembles the object.,SEGMENT
+What color are the curtains?,FRAME
+What color are the shoes?,FRAME
+What is the overall message of the video?,VIDEO
+What is the person looking at?,FRAME
+What color is the woman's shirt?,FRAME
+What happens during the part showing the data collection process?,SEGMENT
+Give an overall description of the video.,VIDEO
+What happens when the door closes?,CLIP
+What color is the woman's dress?,FRAME
+What occurs during the first major activity?,SEGMENT
+What happens during the section about the implementation?,SEGMENT
+What happens in the section about the results?,SEGMENT
+What happens after the dog runs toward the camera?,CLIP
+What does the person do when the alarm starts?,CLIP
+What object is beside the laptop?,FRAME
+What happens immediately after the glass falls?,CLIP
+What does the man do after turning around?,CLIP
+What are the important things that happen from start to finish?,VIDEO
+What are the major things shown in the recording?,VIDEO
+How does the person move from the hallway into the room?,CLIP
+What is the main content of this recording?,VIDEO
+How many chairs are visible?,FRAME
+How does the cat get onto the table?,CLIP
+What occurs during the part about optimization?,SEGMENT
+What is displayed on the screen?,FRAME
+Give me an overview covering the entire recording.,VIDEO
+What are the important things that happen in this video?,VIDEO
+What does the video show from beginning to end?,VIDEO
+Summarize everything significant.,VIDEO
+What is shown during the portion about model evaluation?,SEGMENT
+What does the man do immediately after picking up the bag?,CLIP
+What does the person do from start to finish?,VIDEO
