@@ -1,5 +1,11 @@
 # Problem 1.2: User Intent Classifier
 
+## Repo Explaination
+
+run.yaml contains the setup and run commands
+docs/README.md contains the data and architecture design
+src/README.md contains the explaination for each of the script including modelling, dataloader, train, test
+
 ## Submission instructions
 
 1. Install the **AIntropy Grader Bot** GitHub App (https://github.com/apps/aintropy-grader-bot) and grant it access to your private repo, if you haven't already — we can't evaluate your submission without this.
@@ -11,3 +17,6 @@
 Once you start the test you have until your test's time limit to complete the assignment — see your invitation email for the exact duration. We ignore any commits pushed to your repo after that.
 
 Questions? careers@aintropy.ai
+
+
+
