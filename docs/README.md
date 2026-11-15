@@ -5,6 +5,9 @@ data:
 - It has 4 unique labels ("VIDEO", "SEGMENT", "CLIP", "FRAME")
 - There are 150 samples corresponding to each label
 
+- the data is divided in 2 parts train and test.
+- train contains 130 samples corresponding to each label
+- test contains 20 samples corresponding to each label
 
 architecture:
 

@@ -9,7 +9,7 @@
 Run the commands below from the repository root. The training command uses the available CSV and includes only required arguments:
 
 ```bash
-python src/scripts/train.py --train_data_path data/video_query_granularity_600.csv --checkpoint_dir checkpoints/exp1
+python src/scripts/train.py --train_data_path data/video_query_granularity_train.csv --checkpoint_dir checkpoints/exp1
 ```
 
 Pass exactly one of `--query` or `--test_csv`. The optional `--model_path` defaults to `checkpoints/exp1/epoch_10.pt`.

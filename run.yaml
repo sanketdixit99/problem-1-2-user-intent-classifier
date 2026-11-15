@@ -10,7 +10,7 @@ setup_commands:
 run_commands:
 
   ## train.py
-  python src/scripts/train.py --train_data_path data/video_query_granularity_600.csv --checkpoint_dir checkpoints/exp1
+  python src/scripts/train.py --train_data_path data/video_query_granularity_train.csv --checkpoint_dir checkpoints/exp1
 
   ## by default it runs for 10 epochs, you can change it with --epochs
 
